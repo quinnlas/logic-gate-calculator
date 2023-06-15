@@ -1,0 +1,1 @@
+Implements arbitrary logic gates with minecraft redstone. The desired logic gate is specified with a truth table. The program outputs the arrangement of blocks in the console layer by layer.
